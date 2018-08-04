@@ -10,7 +10,7 @@ The bamazonCustomer.js displays the items currently available in the store and t
 The total cost of this order is $XX.XX
 Inventory Updated".
 
-!(/images/1.png)
+![no purchase](/images/1.png)
 !(/images/2.png)
 !(/images/3.png)
 
