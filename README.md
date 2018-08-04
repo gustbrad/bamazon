@@ -11,8 +11,8 @@ The total cost of this order is $XX.XX
 Inventory Updated".
 
 ![no purchase](/images/1.png)
-!(/images/2.png)
-!(/images/3.png)
+![with purchase](/images/2.png)
+![insufficient](/images/3.png)
 
 ## bamazonManager.js
 The bamazonManager.js presents the user with 4 options.
@@ -23,18 +23,18 @@ The bamazonManager.js presents the user with 4 options.
 
 ### View Products for Sale
     If the user selects this option then all of the available items in the store are displayed and the user is presented with the menu of options again.
-    !(/images/4.png)
+![for sale](/images/4.png)
 
 ### View Low Inventory
     If the user selects this option then all of the items in the store that are fewer than 5 in stock are displayed and the user is presented with the menu of options again.
-    !(/images/5.png)
+![low inventory](/images/5.png)
 
 ### Add to Inventory
     If the user chooses this option then they are asked what is the ID number of the item they want to add more of. Then they are asked how much they would like to add. The inventory is updated and the items available are displayed followed by the menu.
-    !(/images/6.png)
+![add inventory](/images/6.png)
 
 ### Add New Product
     If the user chooses this option then they are asked what is the name of the product they would like to add.
     Then they are asked what department the item belongs to.Then they are asked what is the price of the item. Finally how many of the item they are adding. The item is added, the items are displayed and the menu is displayed.
-    !(/images/7.png)
+![add new](/images/7.png)
 
